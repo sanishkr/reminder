@@ -7,6 +7,10 @@ export default () => {
           href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap"
           rel="stylesheet"
         />
+        <script
+        src="https://cdn.onesignal.com/sdks/OneSignalSDK.js"
+        async=""
+      ></script>
       </Head>
     <div className="flex justify-center mt-64 text-3xl text-green-700 font-pacifico">Hello World!!</div>
     {/* <img src="/pic.jpeg" alt="me" width="64" height="64" /> */}
